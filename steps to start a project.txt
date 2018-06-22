@@ -1,0 +1,6 @@
+to start a project
+
+1. first create a git account
+https://github.com/SandhyaRatan
+2. create a repository 
+3.create a folder n clone the git by seeing the steps in the git.txt

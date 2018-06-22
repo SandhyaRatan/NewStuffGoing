@@ -1,0 +1,61 @@
+to do for the first time
+1.$  git config --global user.name "SandhyaRatan"
+2.$  git config --global user.email sandhya.ratan2@mindtree.com
+3.$ git clone https://github.com/SandhyaRatan/NodeJs201.git<-- add copied from git
+
+to add a file
+>$ git add text.txt
+
+
+to commit a file
+>$ git commit-m "first commit" filename
+
+to check status
+>$git status
+
+
+to push in git
+>$ git push -u origin master
+
+to add all file
+>$ git add .
+
+to see all commit comments
+>$ git log --oneline
+
+
+to revert back to the last commit
+>$ git checkout log-no-of-commit filename
+
+
+to unstages after the checkout in the file
+>$ git reset HEAD filename
+
+
+to revert the checkout n get back the old updated file
+>$ git checkout -- filename
+
+
+unstage the staged file n leave the directory unharmmed
+>$ git reset filename
+
+to to the last commit n leave the directory unharmed
+>$get reset
+
+
+
+Additional Resources (Git)
+Git site http://git-scm.com.
+Installing Git chapter from Pro Git
+Git reference manual
+Quick reference guides: GitHub Cheat Sheet (PDF) | Visual Git Cheat Sheet (SVG | PNG)
+Atlassian comprehensive Git tutorial
+
+
+
+
+
+
+
+
+
